@@ -15,8 +15,8 @@ The first step, I determine what things can be analyzed to help solve problems t
 To answer the question, I saw and analyzed from 3 tables, what data can be taken from the three tables to answer the question
 
 ### Analyze
-After determining what data is needed, I implement it using <a href="https://github.com/Rifald/Study-Case-TheLook-E-Commerce/blob/main/Query/query.sql" target="_blank" rel="noopener noreferrer">SQL</a> to get the required data. After that I make a visualization using Tableau based on the data that has been taken
+After determining what data is needed, I implement it using <a href="https://github.com/Rifald/Study-Case-TheLook-E-Commerce/blob/main/Query/query.sql" target="_blank" rel="noopener noreferrer">SQL</a> to get the required data. After that I make a visualization using Data Studio based on the data that has been taken
 
 ### Share
 You can see my Data Visualization and insights in this 
-<a href="https://public.tableau.com/views/TransactionDetailPTSejahteraBersamaCasestudy/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Report</a>
+<a href="https://datastudio.google.com/reporting/12706c71-e2a8-4f7f-bcc2-ed50f12154cd" target="_blank" rel="noopener noreferrer">Report</a>
