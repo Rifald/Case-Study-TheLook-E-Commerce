@@ -8,7 +8,7 @@ In the case study, there are 3 tables that can be analyzed
 
 ### Ask
 The first step, I determine what things can be analyzed to help solve problems that exist in the company
-1. How is the development of sales every month at the company?
+1. How is the development of sales monthly at the company?
 2. How to increase sales?
 
 ### Prepare
