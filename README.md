@@ -1,4 +1,4 @@
-# Case Study LookUp E-Commerce
+# Case Study TheLook E-Commerce
 
 Documentation of a case study on bigquery data called TheLook E-Commerce. I did this Case Study when I was taking a Mini Course at RevoU.
 In the case study, there are 3 tables that can be analyzed
